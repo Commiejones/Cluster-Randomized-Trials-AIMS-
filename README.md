@@ -9,9 +9,9 @@ This work explores the main components and considerations in the design of a CRT
 
 This repository contains the following R files:
 
-\begin{itemize}
-\item Descriptive_Stat_for_MENISCUS.R  for the summary statistics of the dataset set
-\item Sample_Size_Simulation_Project which shows sample size simulations for the MENISCUS CRT
-\item Random_Effect_Models_Project that shows random effect models in the work.
-\end{itemize}
+- `Descriptive_Stat_for_MENISCUS.R`: This file provides the summary statistics for the dataset.
+- `Sample_Size_Simulation_Project.R`: This project demonstrates sample size simulations for the MENISCUS CRT.
+- `Random_Effect_Models_Project.R`: This project shows the implementation of random effect models in the work.
+
+
 
